@@ -1,4 +1,4 @@
-#include "TW/TinyWireS/TinyWireS.h"
+#include "TinyWire/TinyWireS/TinyWireS.h"
 
 #define I2C_SLAVE_ADDRESS 0x04 // 7-bit Address of this device
 
